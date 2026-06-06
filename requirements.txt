@@ -1,0 +1,18 @@
+# V2Ray Converter — Python dependencies
+#
+# Install with:  pip install -r requirements.txt
+#
+# Only one non-standard package is needed — everything else is Python stdlib.
+# ─────────────────────────────────────────────────────────────────────────────
+
+# ── GUI ───────────────────────────────────────────────────────────────────────
+PyQt6>=6.6.0
+
+# ── Already in Python stdlib (listed here for reference, do NOT install) ──────
+# json        — config parsing / serialization
+# base64      — VMess URI encoding / decoding
+# re          — URI and pattern parsing
+# urllib.parse — URL encoding and decoding
+# pathlib     — file path handling
+# copy        — deep copy of config dicts
+# typing      — type hints
