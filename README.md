@@ -149,7 +149,7 @@ Run the script directly with Python if you prefer not to use the EXE.
 Download `V2RayConverter_V1.py` from this repository (click the file → click the download icon), or clone:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/V2RayConverter.git
+git clone https://github.com/Sparky2273/V2RayConverter.git
 cd V2RayConverter
 ```
 
